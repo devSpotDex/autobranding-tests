@@ -1,9 +1,7 @@
 {
-  "website": "https://localhost:3000/token-assets/DEXTEST-1e68c0",
-  "description": "https://localhost:3000/token-assets/DEXTEST-1e68c0",
-  "social": {
-    "x": "https://localhost:3000/token-assets/DEXTEST-1e68c0"
-  },
+  "website": "",
+  "description": "",
+  "social": {},
   "lockedAccounts": {},
   "extraTokens": [
     {
