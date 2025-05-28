@@ -1,0 +1,13 @@
+{
+  "website": "https://localhost:3000/token-assets/DEXTEST-1e68c0",
+  "description": "https://localhost:3000/token-assets/DEXTEST-1e68c0",
+  "social": {},
+  "lockedAccounts": {},
+  "extraTokens": [
+    {
+      "value": "",
+      "error": ""
+    }
+  ],
+  "status": "active"
+}
