@@ -1,0 +1,17 @@
+{
+  "website": "https://localhost:3000/token-assets/TWO-9fd658",
+  "description": "https://localhost:3000/token-assets/TWO-9fd658",
+  "social": {
+    "x": "https://localhost:3000/token-assets/TWO-9fd658"
+  },
+  "lockedAccounts": {
+    "erd12345677": "lichiditate"
+  },
+  "extraTokens": [
+    {
+      "value": "TOKEN-12345676",
+      "error": ""
+    }
+  ],
+  "status": "active"
+}
