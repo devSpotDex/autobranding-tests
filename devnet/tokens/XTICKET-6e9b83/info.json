@@ -1,8 +1,14 @@
 {
   "website": "-",
   "description": "A collection of tokens used as tickets to test various smart contracts on the devnet multiversx",
+  "social": {
+    "x": "https://x.com"
+  },
+  "lockedAccounts": {
+    "erd123432434": "total"
+  },
   "extraTokens": [
-    "token-1234"
+    "token-12345"
   ],
   "status": "active"
 }
