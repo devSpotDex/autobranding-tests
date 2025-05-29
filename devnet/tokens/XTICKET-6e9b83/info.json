@@ -1,8 +1,8 @@
 {
-  "website": "https://localhost:3000/token-assets/XTICKET-6e9b83",
-  "description": "https://localhost:3000/token-assets/XTICKET-6e9b83",
-  "social": {
-    "x": "https://localhost:3000/token-assets/XTICKET-6e9b83"
-  },
+  "website": "-",
+  "description": "A collection of tokens used as tickets to test various smart contracts on the devnet multiversx",
+  "extraTokens": [
+    "token-12345"
+  ],
   "status": "active"
 }
