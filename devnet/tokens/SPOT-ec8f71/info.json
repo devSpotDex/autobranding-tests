@@ -1,0 +1,15 @@
+{
+  "website": "https://localhost:3000/",
+  "description": "descriere frumoasa a tokenului",
+  "social": {
+    "telegram": "https://localhost:3000/",
+    "x": "https://localhost:3000/"
+  },
+  "lockedAccounts": {
+    "erd1223123213213": "testare"
+  },
+  "extraTokens": [
+    "token-3456"
+  ],
+  "status": "active"
+}
